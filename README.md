@@ -10,7 +10,8 @@ Tugas Projek Akhir Semester 4 - Inventory Management System `VOINVENTORY`
 4. Import database
 5. Install Google OAuth API Package `composer require google/apiclient`
 6. Install Dependency Library TCPDF From https://github.com/tecnickcom/TCPDF
-6. Run on localhost
+7. Change Name Voinventory---Inventory-Website to `Voinventory`
+8. Run on localhost
 
 ## Features
 
