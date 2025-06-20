@@ -1,0 +1,38 @@
+# Environment & Credentials
+.env
+.env.local
+.env.development
+.env.staging
+
+# Google OAuth Credentials
+google-credentials.json
+client_secret.json
+oauth-credentials.json
+
+# Logs
+*.log
+logs/
+error.log
+
+# Cache & Temporary
+tmp/
+temp/
+cache/
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Composer
+/vendor/
+composer.lock
+
+# Upload directories
+uploads/
+files/
