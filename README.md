@@ -20,8 +20,16 @@ Tugas Projek Akhir Semester 4 - Inventory Management System `VOINVENTORY`
 - Stock In/Out tracking
 - Export to PDF
 
-Tools - Visual Studio Code, MySQL, PHP.
+## 📌 Tools - Visual Studio Code.
+[![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/)
 
+### Extras : 
+Font Awesome and TCPDF library for export PDF.
 ## 📌 PREVIEW VOINVENTORY  :
 
 ![Login page](https://github.com/user-attachments/assets/a6ff8629-46e2-4abc-9f86-68ecaf7402e1)
